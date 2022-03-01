@@ -1,0 +1,595 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An adventure for a parcel of plate, rings, and watches, valued to the sum of two hundred pound starling [sic], put out by.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01475</idno>
+            <idno type="STC">Wing A603A</idno>
+            <idno type="STC">ESTC R172097</idno>
+            <idno type="EEBO-CITATION">52614492</idno>
+            <idno type="OCLC">ocm 52614492</idno>
+            <idno type="VID">175741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175741)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An adventure for a parcel of plate, rings, and watches, valued to the sum of two hundred pound starling [sic], put out by.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: creased, with some loss of text.</note>
+                  <note>Contains a list of goods to be raffled.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Raffles --  Scotland --  Early works to 1800.</term>
+               <term>Lotteries --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175741:1"/>
+            <pb facs="tcp:175741:1" rendition="simple:additions"/>
+            <head>AN ADVENTURE</head>
+            <head type="sub">For a Parcel of Plate, Rings, and Watches, Valued to the Sum of two Hundered <hi>Pound Starling,</hi> put out by. There will be Delivered out Eight Hundered Tickets, at five <hi>ſhil: Starling</hi> each Ticket, which amounts to the Sum of two Hun<g ref="char:EOLhyphen"/>dered Pound <hi>Starling,</hi> and will be devided into the Benefite Lotts as Follows.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">L:</cell>
+                     <cell role="label">ſh:</cell>
+                  </row>
+                  <row>
+                     <cell>A Fine Agate Cup, Garniſhed with Silver, and a Shagerine caſe to it.</cell>
+                     <cell rows="2">30</cell>
+                     <cell rows="2">00</cell>
+                  </row>
+                  <row>
+                     <cell>A Silver Tanckard, and a Pair of fine Silver Candleſticks.</cell>
+                  </row>
+                  <row>
+                     <cell>A Suggar Caſter, being all valuedat 30 <hi>Lib: Sterling.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A fin<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Gold Watch, made by <hi>Robert Pringel,</hi> valued at</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Silver Watch, value</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One fine Silver Watch, made by <hi>Harper,</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A large Caſe of Silver Hafted knives for a Gentlemans Table ſix of theſe.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Another of the ſame</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A caſe of ſilver hafted knives and Forks, continuing a dozen of knives and ſix Forks.</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A fine Silver hilted Sword</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Ditto, Large,</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Silver Diſh,</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A fine Agat Cup, Garniſhed with Silver, and a caſe to it</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A caſe with 6 Spoons and Forks, Gilded of Silver, for Tea and ſmeeatmeats.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A fine ſilver hilted ſword</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Needle Book, with a ſilver Cover, and a pair of Ear<g ref="char:EOLhyphen"/>tings, and a pair of ſtone Buckels</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Caſe with a ſilver Hafted Koif, Spoon, and Fork,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Ditto,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Half a dozen of Silver ſpoons, and ſix ſilver Forks,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Two ſilver Salts,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Two Ditto,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Neclaſe ſet with <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A fine moſt Box, with a ſilver fancy on the head of it</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A Strong Silver ſpoon, knife, and forke with a ſhage teen Caſe to them.</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A fine Bagonet, and Belt,</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A caſe with a Spoon, Knife, and Fork in a caſe</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One fi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Siver Snuff Box,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Graved ſnuff Box,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Ring, with a contious Fancy</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Pair of large Silver Buckels,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Seven Glaſs Bottles with Silve<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> he<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Graved Ink Box,</cell>
+                     <cell>0<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Another Ditto,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A fine Silver Bottle,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Two Silver Graters,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>A Ring with two Hands, holding a Hart with Stones</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Nine pair of Silver Buttons for Sleives,</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Silver bottle.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One La<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge paire of Silver Buckles,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Large Belt Buckle ſeet with ſtones,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Large ditto, with a Guilded Scripe,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One box finely Engraven.</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto, a ſtrong plate one</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto an Engraven one,</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>One Pearl Ring,</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>One Cu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al Necklaſs,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A fine Snuff box Guilded</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A ſilver Tooth-pick Caſe, and a pair of fine ſtone buttans for the ſleves,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:175741:2" rendition="simple:additions"/> A Silver Tooth-pick caſe, and a pair of Ear-Rings, and a pair of ſtone buttons for Sileves,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>A caſe with 6 Tea ſpoons of Silver graved and Guilded,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>1 Silver Ink Scandiſh.</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One Cural Necklaſe</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ſquare Stone Ring ſeet in Gold</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One caſe knife ſpoon, and Fork,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto.</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One caſe with 6 Guilded Forks</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One caſe with a knife ſpoon and Fork,</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>A caſe with 6 Guilded ſpoons</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Six Guilded Forks finely Engraven,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One Cural Necklaſes,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>A ſquare Snuff box finely Engraven:</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One ditto, with a ſtone on the cover</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One ovell Snuff box finely done and Engraven,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One fine ſilver chain purſe,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One fine peral Ring,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One Guilded ſpoon, knife, fork, in a caſe,</cell>
+                     <cell>01</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>One pair of fine Large ſtone ſhoo buckles,</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>One pair of Amiſhiſt Ear Rings,</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>One pair of parle Ear Rings, and a ſalt bottle Garniſhed with ſilver,</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>One pair of Chriſtel Ear Rings, and a ſalt bottle, Garniſhed with ſilver,</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>1 pair of new faſhoned <hi>French</hi> parle Ear Rings, and a pair ſto<g ref="char:EOLunhyphen"/>buttons for ſleives.</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>1 Large poliſhed ſilver buckel for a belt,</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>A Girdle buckle ſeet with ſtones, and a ſilver Civit box.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Lots 76:</cell>
+                     <cell role="total" cols="2">200. Lib. Starl.<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>THere will be delivered out 800 Tickets, which will be Numbered from One to 8th Hundred, and there will be Three Tickets of one and the ſame Number, that is to ſay, there will be Three of the Number one, and three of number two, and ſo to one to 800: The firſt of which Number is given to the perſon that puts in his five ſhillings, The ſecond of the ſame number, is put into a box to be drawn for the perſon, and the Third of the ſame Number remains in the Book, to compare the other two with, after the Adventure is drawn. As ſuppoſe in the Drawing this Adventure, Number 50 ſhould come up with the 30 <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the Per<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> that hath that Number. going to the Perſon from whom he took out his Ticket, and compair<g ref="char:EOLhyphen"/>ing it with the Number that remains in the Book, will receive it, As you may perceive by the following cut, which is the Form of the Tickets delivered out.
+<table>
+                  <row>
+                     <cell>Numb: 50</cell>
+                     <cell>Numb: 50                    </cell>
+                     <cell>Numb 50                    </cell>
+                  </row>
+                  <row>
+                     <cell>                    
+<lb/>I promiſe to pay to the
+<lb/>Bearer 5 ſhillings Starl-
+<lb/>ings, if this Adventure
+<lb/>is not Drawn, or a
+<lb/>Drawing, on the firſt
+<lb/>day of July, 1700:
+<lb/>or ten dayes after,
+<lb/>and when drawn, to
+<lb/>pay the Benefited Lott.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>I promiſe to par to the Bearer</hi> 5 <hi>ſhillings St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl<g ref="char:EOLhyphen"/>ings, if this Adventure is not Drawn, or a Drowing, on the firſt day of</hi> July, 1700: <hi>or ten dayes after, and when drawn, to pay the Benefited Lott.</hi>
+            </p>
+            <p>At the time prefixed for the Drawing this Adventure, The ſecond Ticket remaining in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Book, will be cut off, roulled up, and Sewed in the middle, and ſo put into a Bagg and ſhaked till they are will mixed, &amp; then thrown out of the Bagg into the Box, from whence they are to be dra<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Then the prizes, That is to ſay, The benefite Lot, of 30 pounds and all th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt, will be roul<g ref="char:EOLhyphen"/>ed up and Sewed in the middle, and ſo mixed with as many blanks as will make up the Numb<g ref="char:EOLhyphen"/>er of 800 Tickets, which is Anſwerable to the number of Tickets delivered out.</p>
+            <p>The Prizes and Blaoks being firſt fairly mixed together, will be put into a Box by themſelves, and thence to be drawn by two Boyes, as followe.</p>
+            <p>One Boy take<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out a Number out of the Box of Numbers, and the other Boy takes out One of the Rouled Papers our of the other Box from among the Blanks and Prizes; And then both the Papers are opened, and given into the Hands of the Proclaimer who Proclaims what Number <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Drawn, and whether it be a Blank or a Prize.</p>
+            <p>As ſuppoſe the Boy that draws out of the Box of Numbers, ſhould draw Number 50, and the Paper the other Boy draws from among the Blanks and prizes, be the prize of 30 pounds Starling, then be that hath the Number 50, is entituled to it. But if a Blank be drawn with the Number 50. That Number is a blank.</p>
+            <p>The time for Drawing this Adventure, is deſigned to be the 1 day of <hi>July,</hi> 1700. At the <hi>E<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> India Coffee Houſe,</hi> but it will be drawn ſooner if full, and it is not doubted but it may ſooner full, A great many perſons having already taken out their Tickets.</p>
+            <p>The drawing of the prizes and Numbers will be in the preſence of Capt. <hi>Cookburn</hi> Gold ſmith, and <hi>George Drummond</hi> Good-man of the Tolbooth, and <hi>Gavin Plummer</hi> Merchant in <hi>Edinburgh.</hi> T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckets are to be delivered out by <hi>Robert Bruce Goldſmith,</hi> at the three <hi>Cooks</hi> over againſt the <hi>Troon Kirl Thomas Ker Goldſmith</hi> in the <hi>Parliament Gloſs,</hi> and by <hi>George Main Jewler</hi> near to the <hi>Guard</hi> of the <hi>North ſide</hi> of the ſleett, and by <hi>Andrew Brown watchmeaker</hi> in <hi>Milns Square.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
